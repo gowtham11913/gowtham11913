@@ -1,153 +1,143 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2E9EF7&height=250&section=header&text=Banothu%20Gowtham&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%2FML&descAlignY=55&descSize=20" width="100%"/>
+# Banothu Gowtham
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=750&lines=Final+Year+B.Tech+%40+NIT+Calicut;IoT+%2B+AI-Powered+Systems+Builder;ESP32+%7C+RFID+%7C+VHDL+%7C+Python;Turning+Hardware+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+**Electronics & Communication Engineering · Embedded Systems · IoT · AI/ML**
+Final Year B.Tech Student, National Institute of Technology (NIT), Calicut — *Class of 2027*
 
-<br/>
+📧 letsmailgowtham11@gmail.com &nbsp;|&nbsp; 📱 +91-8328662334 &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/gowtham-banothu) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/gowtham11913)
 
-<a href="https://linkedin.com/in/gowtham-banothu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:letsmailgowtham11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/gowtham11913"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=gowtham11913&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS" alt="profile views"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgowtham11913&color=2E9EF7" alt="followers"/>
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-2E9EF7?style=for-the-badge)](#)
+[![Email Me](https://img.shields.io/badge/✉️_Email_Me-D14836?style=for-the-badge)](mailto:letsmailgowtham11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gowtham-banothu)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+---
 
-## 🧬 `whoami`
+## 👋 About Me
 
-```yaml
-name: Banothu Gowtham
-role: Final Year B.Tech Student — Electronics & Communication Engineering
-institution: National Institute of Technology (NIT), Calicut
-focus: [Embedded Systems, IoT, Data Science, Artificial Intelligence]
-currently_building: AI + Hardware integrated solutions
-currently_learning: Applied Machine Learning & Data Science workflows
-past_experience: Summer Intern @ BHEL, Hyderabad
-fun_fact: I make circuits talk to the cloud ⚡☁️
-open_to: [Internships, Collaborations, Embedded/IoT/ML Projects]
-```
+Final-year Electronics & Communication Engineering student at NIT Calicut, seeking full-time / internship opportunities in **Embedded Systems, IoT, Data Science, and AI**. I build end-to-end hardware-software systems — from sensor to cloud — and I'm looking for a team where I can apply that to real engineering and infrastructure problems.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+- 🎓 B.Tech ECE, NIT Calicut — CGPA **7.07** (2023–2027)
+- 🏭 Summer Intern at **BHEL, Hyderabad** — heavy electrical & industrial systems
+- 🔧 Comfortable across the stack: firmware (ESP32/C), simulation (VHDL/LTSpice), and application layer (Python/AI)
+- 🟢 **Open to:** Internships & full-time roles in Embedded Systems, IoT, and AI/ML
 
-## 🛠️ Tech Arsenal
+---
 
-<div align="center">
+## 🧠 Skills
 
-<img src="https://skillicons.dev/icons?i=c,python,cpp,vscode,git,github,arduino,raspberrypi&theme=dark" />
+| Category | Skills |
+|---|---|
+| **Languages** | C, Python, VHDL |
+| **Embedded Systems / IoT** | ESP32, RFID, DHT11, Microcontrollers, WiFi Communication, JSON |
+| **AI / Machine Learning** | ML Fundamentals, Data Science Workflows, Whisper, Hugging Face Transformers, BART |
+| **EDA / Simulation** | LTSpice, Icarus Verilog, Ansys, Proteus |
+| **Tools & Platforms** | Git, VS Code, Streamlit, n8n |
+| **Soft Skills** | Leadership, Teamwork, Public Speaking, Problem Solving, Presentations |
 
-<br/><br/>
+---
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![RFID](https://img.shields.io/badge/RFID-333333?style=for-the-badge)
-![VHDL](https://img.shields.io/badge/VHDL-1E415E?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![LTSpice](https://img.shields.io/badge/LTSpice-005A9C?style=for-the-badge)
-![Ansys](https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
-![Proteus](https://img.shields.io/badge/Proteus-1D6EBA?style=for-the-badge)
+## 🚀 Projects
 
-</div>
+### 💊 [Smart Medicine Dispensing System](#)
+IoT-based automated medicine dispenser solving real-world medication adherence problems.
+- Built time-slot based dispensing on **ESP32** with a web interface for scheduling
+- Secured access using **RFID authentication** for identity-verified dispensing
+- Automated real-time device-to-backend communication via **n8n** (JSON over WiFi)
+- Added smart dose-reminder alerts and missed-dose tracking
+- Logged all dispensing events automatically to **Google Sheets** for remote monitoring
 
-## 🚀 Featured Builds
+`ESP32` `RFID` `n8n` `IoT` `WiFi/JSON`
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
+### 🎙️ [Lecture Voice-to-Notes Generator](#)
+AI application turning raw lecture audio into structured, usable study material.
+- Built speech-to-text pipeline using **OpenAI Whisper** for accurate transcription
+- Added **BART**-based summarization to auto-generate concise lecture summaries
+- Built an interactive **Streamlit** UI supporting live recording + file upload (WAV/MP3/M4A)
+- Delivered downloadable notes/summary reports with configurable transcription settings
 
-### 💊 Smart Medicine Dispenser
-IoT-based automated dispenser on **ESP32** with **RFID** authentication, time-slot scheduling, and **n8n**-driven real-time automation. Smart dose alerts + auto-logging to Google Sheets.
+`Python` `Streamlit` `Whisper` `Transformers` `NumPy`
 
-`ESP32` `RFID` `n8n` `JSON` `WiFi`
-
-</td>
-<td width="50%">
-
-### 🎙️ Lecture Voice-to-Notes
-AI app converting lecture audio into text using **Whisper**, summarized with **BART**. Streamlit UI with live recording, multi-format upload, and downloadable reports.
-
-`Python` `Streamlit` `Whisper` `Transformers`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌡️ Temp & Humidity Monitor
-Real-time environmental monitoring with **DHT11**, applied toward smart infrastructure and remote-site monitoring.
+### 🌡️ [Temperature & Humidity Monitor](#)
+Real-time environmental monitoring system using a **DHT11** sensor and microcontroller — applied to smart infrastructure and remote site monitoring use cases.
 
 `DHT11` `Microcontroller` `IoT`
 
-</td>
-<td width="50%">
-
-### 🧠 Dual Port RAM — VHDL
-Dual-port memory architecture built in **VHDL**, simulated and verified with **Icarus Verilog**.
+### 🧠 [Dual Port RAM — VHDL](#)
+Dual-port memory architecture designed in **VHDL**, simulated and functionally verified using **Icarus Verilog**.
 
 `VHDL` `Icarus Verilog`
 
-</td>
-</tr>
-</table>
-</div>
-
 <details>
-<summary align="center"><b>🔊 More: Speaker Protection Circuit</b></summary>
+<summary><b>🔊 Speaker Protection Circuit</b></summary>
 <br>
-<div align="center">
-Analog protection circuit safeguarding audio systems from voltage surges and thermal overload — designed, simulated, and performance-analyzed.
-</div>
+Analog protection circuit designed to safeguard audio systems from voltage surges and thermal overload, evaluated through simulation and performance analysis.
+<br><br>
+<code>Analog Circuit Design</code> <code>Simulation</code>
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+> 💡 *Replace the `#` links above with your actual repo URLs once pushed — recruiters click through to code.*
 
-## 📊 GitHub Analytics
+---
+
+## 🏢 Experience
+
+**Summer Intern — BHEL, Hyderabad** · *Summer 2025*
+- Gained hands-on exposure to heavy electrical engineering systems and industrial project execution
+- Observed large-scale infrastructure operations, project implementation, and maintenance workflows in a public-sector enterprise setting
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Duration | Score |
+|---|---|---|---|
+| B.Tech, Electronics & Communication Engineering | NIT Calicut | 2023 – 2027 | CGPA 7.07 |
+| Higher Secondary Education | Jawahar Navodaya Vidyalaya, Kottayam | 2021 – 2023 | 78.2% |
+| Secondary Education | Jawahar Navodaya Vidyalaya, Khammam | 2019 – 2021 | 88% |
+
+---
+
+## 📜 Certifications & Workshops
+
+- Python 100-Day Project Challenge: Web, Game, App & Data Science Development — *Udemy*
+- Workshop on AI Projects & Applications — *Google Developer Student Club, NIT Calicut*
+- Workshop on Web Development 101 — *Google Developer Student Club, NIT Calicut*
+- RIG Workshop — *RIG Club, NIT Calicut*
+- LTSpice Workshop — *IEEE Student Chapter, NIT Calicut*
+- Drona Lecture Series — *Department of ECE, NIT Calicut*
+
+---
+
+## 🏆 Leadership & Activities
+
+- Junior Executive — IEDC Expo Committee, NIT Calicut (2024)
+- Junior Executive — Tatva Expo Committee, NIT Calicut (2024)
+- Junior Executive — Ragam Program Committee, NIT Calicut (2025)
+- Member — NITC Hockey Club; represented the institute in inter-department tournaments
+- Member — Algozenith Club (Competitive Programming & Algorithmic Problem Solving)
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gowtham11913&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham11913&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gowtham11913&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham11913&layout=compact&theme=default&hide_border=true" height="160"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham11913&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham11913&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gowtham11913&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/gowtham11913/gowtham11913/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-<sub>⚙️ Auto-generates once the snake action below is added to your repo</sub>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-
-## 🏆 Beyond the Code
+---
 
 <div align="center">
 
-🏭 Junior Executive — **IEDC Expo · Tatva Expo · Ragam Program** Committees, NIT Calicut
-🏑 Member — **NITC Hockey Club** (inter-department tournaments)
-💻 Member — **Algozenith Club** (Competitive Programming)
-📜 Python 100-Day Challenge · AI Projects Workshop (GDSC) · Web Dev 101 (GDSC) · LTSpice Workshop (IEEE)
+### 📬 Let's Connect
 
-</div>
+I'm actively looking for **internship and full-time opportunities** in Embedded Systems, IoT, and AI/ML.
+Feel free to reach out — happy to talk about any of the projects above in more depth.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0f2027&height=120&section=footer" width="100%"/>
+[![Email](https://img.shields.io/badge/letsmailgowtham11@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:letsmailgowtham11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/gowtham--banothu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gowtham-banothu)
 
-<div align="center">
-<i>💡 Open to internships & collaborations in Embedded Systems, IoT, and AI/ML — let's build something.</i>
 </div>
