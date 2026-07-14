@@ -36,6 +36,12 @@ I'm an Electronics & Communication Engineering student at **NIT Calicut**, build
 
 ## 🧠 Tech Stack
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,python,arduino,git,github,vscode&theme=dark"/>
+</div>
+
+<br/>
+
 **Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -101,6 +107,10 @@ I'm an Electronics & Communication Engineering student at **NIT Calicut**, build
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham11913&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gowtham11913&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
 
 ---
