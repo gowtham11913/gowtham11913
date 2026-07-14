@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2E9EF7&height=250&section=header&text=Gowtham%20Banothu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%2FML&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2E9EF7&height=250&section=header&text=Banothu%20Gowtham&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%2FML&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=750&lines=Final+Year+B.Tech+%40+NIT+Calicut;IoT+%2B+AI-Powered+Systems+Builder;ESP32+%7C+RFID+%7C+VHDL+%7C+Python;Turning+Hardware+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
 
