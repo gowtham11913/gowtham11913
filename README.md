@@ -9,7 +9,6 @@
 [![Resume](https://img.shields.io/badge/📄_RESUME-Download-2E9EF7?style=for-the-badge)](#)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:letsmailgowtham11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gowtham-banothu)
-[![Phone](https://img.shields.io/badge/+91_8328662334-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918328662334)
 
 </div>
 
@@ -17,11 +16,15 @@
 
 ## 🎯 About Me
 
-Final-year **Electronics & Communication Engineering** student at **NIT Calicut**, actively seeking **internship / full-time opportunities** in Embedded Systems, IoT, Data Science, and AI. I build complete hardware-to-cloud systems — firmware, simulation, and the AI/software layer on top — and I like shipping things that actually work end to end.
+I'm an **Electronics & Communication Engineering** student at **NIT Calicut**, and I build things that live at the boundary of hardware and intelligence — a sensor that talks to an ML model, a microcontroller that makes a decision, a circuit that becomes a product. Not just class projects: systems designed to solve a real problem for a real user, end to end.
+
+I think in stacks: **VHDL and LTSpice** at the silicon level, **ESP32 and RFID** at the device level, **Python and Transformer models** at the intelligence layer. That range is deliberate — the best embedded/IoT engineers I admire aren't just firmware people or just ML people, they're both, and I'm building toward that.
+
+Currently sharpening my Data Science and applied ML skills, and looking for a team building real hardware-connected products where that combination matters.
 
 <table>
 <tr>
-<td width="33%" align="center">🎓<br/><b>CGPA 7.07</b><br/><sub>B.Tech ECE, NIT Calicut</sub></td>
+<td width="33%" align="center">🎓<br/><b>NIT Calicut</b><br/><sub>B.Tech ECE, 2023–2027</sub></td>
 <td width="33%" align="center">🏭<br/><b>BHEL Hyderabad</b><br/><sub>Summer Intern 2025</sub></td>
 <td width="33%" align="center">🟢<br/><b>Open to Work</b><br/><sub>Internships & Full-time</sub></td>
 </tr>
@@ -131,11 +134,11 @@ Gained hands-on exposure to heavy electrical engineering systems, large-scale in
 
 ## 🎓 Education
 
-| Degree | Institution | Duration | Score |
-|---|---|---|---|
-| B.Tech, Electronics & Communication Engineering | NIT Calicut | 2023 – 2027 | CGPA 7.07 |
-| Higher Secondary Education | Jawahar Navodaya Vidyalaya, Kottayam | 2021 – 2023 | 78.2% |
-| Secondary Education | Jawahar Navodaya Vidyalaya, Khammam | 2019 – 2021 | 88% |
+| Degree | Institution | Duration |
+|---|---|---|
+| B.Tech, Electronics & Communication Engineering | NIT Calicut | 2023 – 2027 |
+| Higher Secondary Education | Jawahar Navodaya Vidyalaya, Kottayam | 2021 – 2023 |
+| Secondary Education | Jawahar Navodaya Vidyalaya, Khammam | 2019 – 2021 |
 
 ---
 
